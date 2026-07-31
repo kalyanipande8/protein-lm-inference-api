@@ -1,1 +1,1 @@
-# protein-lm-inferenve-api
+# protein-lm-inference-api
